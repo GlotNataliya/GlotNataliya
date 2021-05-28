@@ -1,10 +1,12 @@
-# Hello 👋 !!!
+<h1 align="center"> Hello 👋 !!! </h1>
+
+<h2 align="center"> My name is Nataliya and I am a beginner developer</h2>
+
 
 <p align="center">
   <img src="https://github.com/GlotNataliya/glotnataliya/blob/c3b2f7064041ed1f633de7cef27f088949279f68/assets/rubin.png" />
 </p>
 
-## My name is Nataliya and I am a beginner developer
 ### Languages and Tools
 ![Ruby](https://img.shields.io/badge/-Ruby-485460?style=for-the-badge&logo=ruby&logoColor=ff3f34)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_rails-485460?style=for-the-badge&logo=ruby-on-rails&logoColor=f53b57)
