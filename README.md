@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋 !!! </h1>
 
-<h2 align="center"> My name is Nataliya and I am a Junior Ruby on Rails Developer</h2>
+<h2 align="center"> My name is Nataliya and I am a Ruby on Rails Developer</h2>
 
 <p align="center">
   <img src="https://github.com/GlotNataliya/glotnataliya/blob/c3b2f7064041ed1f633de7cef27f088949279f68/assets/rubin.png" />
